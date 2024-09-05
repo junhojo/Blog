@@ -1,0 +1,10 @@
+//
+// Config.xcconfig
+// auto version
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+// https://medium.com/@mateuszsiatrak/automating-build-number-increments-in-xcode-with-custom-format-a-practical-guide-bcc90a19f716
+
+VERSION  =  1.0.0
+BUILD_NUMBER  =  202409050001
